@@ -1,0 +1,7 @@
+body {
+    background-image: url('https://fondosmil.co/fondo/16641.jpg');
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que se repita la imagen */
+    background-attachment: fixed; /* Fija la imagen de fondo */
+    background-position: center center; /* Centra la imagen de fondo */
+}
